@@ -9,7 +9,7 @@ setup(
   author = 'Paul Verse',                   # Type in your name
   author_email = 'paulverse@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/user/Lembley42',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/Lembley42/ds_bigquery/archive/refs/tags/v_0.1.tar.gz',    # Where to find the GitHub
+  download_url = 'https://github.com/Lembley42/ds_date/archive/refs/tags/v0.1.tar.gz',    # Where to find the GitHub
   keywords = ['datastack'],   # Keywords that define your package best
   install_requires=[            # All required packages
       ],
